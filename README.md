@@ -2,7 +2,7 @@
 
 Prototipo de juego de pelea 2D en Unity con aves del Valle del Cauca. Cada golpe dado o recibido llena el **tanque neón**; con el tanque lleno, el ave se transforma en un androide neón con ataques especiales.
 
-- **Autor:** Carlos Darío Botina Mora
+- **Autor:** Emanuel Reyes
 - **Programa:** Desarrollo de Videojuegos y Entornos Interactivos — SENA, ficha 3466174
 - **Motor:** Unity 6000.0.40f1 · Input System
 
